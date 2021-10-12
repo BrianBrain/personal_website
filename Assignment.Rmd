@@ -1,0 +1,8 @@
+---
+title: "歡迎來到我的個人頁面"
+author: "我是Brian 劉家佑"  
+date: "現在時間:`r format(Sys.time())`"
+output: html_document
+---
+
+[這是我的githubg首頁](https://github.com/BrianBrain)
